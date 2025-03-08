@@ -1,0 +1,54 @@
+html{
+	font-family: "calibri";
+}
+head{
+	background-color: black;
+	color: white;
+	font-family: "calibri";
+}
+body {
+	background-color: black;
+	color: white;
+	font-family: "calibri";
+	font-size: 20px;
+}
+h1{
+	font-size: 1000%;
+	text-align: center;
+	background-image:url(https://www.terres-chiliennes.com/uploads/sites/14/2019/12/voie-lactee-atacama.jpeg);
+}
+table {
+	font-family: "calibri";
+	color: white;
+}
+dfn{
+	margin-left: 15px;
+	font-size: 105%;
+}
+h2{
+	font-size: 500%;
+	background-image:url(https://www.terres-chiliennes.com/uploads/sites/14/2019/12/voie-lactee-atacama.jpeg);
+
+}
+span{
+	font-size: 160%;
+	margin-left: 15px;
+}
+a{
+	color: white;
+	margin-left: 15px;
+	font-size: 200%;
+}
+h3{
+	font-size: 255%;
+	background-image:url(https://www.terres-chiliennes.com/uploads/sites/14/2019/12/voie-lactee-atacama.jpeg);
+}
+div {
+	background-color: black;
+	color: white;
+	font-family: "calibri";
+	font-size: 20px;
+}
+#col {
+	column-count: 2;
+}
